@@ -3,7 +3,7 @@ An OOP approach to image filtering using a Local Mask Max Filter implemented in 
 
 Author: Jay Battle
 Course: BIEN 4290
-Refrences: My alma mater, Chu et. al.
+Refrences: My alma mater
 Languages: C++, Bash, Command Line
 Platform: UNIX
 Purpose: Sample C++ Project
